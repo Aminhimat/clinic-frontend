@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:Sukesh09/clinic-frontend.git"
+    "url": "git+ssh://git@github.com/Sukesh09/clinic-frontend.git"
   },
   "engines": {
     "node": ">= 6"
