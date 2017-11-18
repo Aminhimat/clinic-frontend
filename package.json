@@ -1,10 +1,9 @@
 {
-  "name": "hospitalrun",
+  "name": "clinic-frontend",
   "version": "1.0.0-beta",
   "description": "Ember front end for HospitalRun",
-  "homepage": "http://hospitalrun.io",
+  "homepage": "https://prakritiapi.in",
   "directories": {
-    "doc": "doc",
     "test": "tests"
   },
   "files": [
@@ -20,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:HospitalRun/hospitalrun-frontend"
+    "url": "git+ssh://git@github.com:Sukesh09/clinic-frontend.git"
   },
   "engines": {
     "node": ">= 6"
@@ -119,5 +118,9 @@
   },
   "config": {
     "forge": "./ember-electron/electron-forge-config.js"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Sukesh09/clinic-frontend/issues"
+  },
+  "main": "index.js"
 }
